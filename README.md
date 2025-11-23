@@ -359,21 +359,6 @@ if result['success']:
 
 ---
 
-## Citation
-
-```bibtex
-@misc{openpii-watcher-2024,
-  title={OpenPII Watcher: Systematic PII Detection in Publicly Shared Documents},
-  author={Valavala, Suryakiran and Advani, Arsh and Ramamoorthy, Vijay Arvind},
-  year={2024},
-  institution={UC Santa Cruz},
-  course={CSE 253: Network Security},
-  note={Achieves 84.3\% precision and 87.6\% recall across 6 PII types}
-}
-```
-
----
-
 ## Contact
 
 **Team Members:**
@@ -386,7 +371,3 @@ if result['success']:
 ## License
 
 Educational project for CSE 253 at UC Santa Cruz.
-
----
-
-**Research Implementation | UC Santa Cruz | Fall 2024**
