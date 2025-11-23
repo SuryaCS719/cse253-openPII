@@ -6,7 +6,7 @@ A privacy-focused detection system that identifies exposed personally identifiab
 
 ---
 
-## 🎓 Academic Project
+## Academic Project
 
 **Course:** CSE 253 - Network Security (Graduate)  
 **Institution:** UC Santa Cruz  
@@ -19,7 +19,7 @@ A privacy-focused detection system that identifies exposed personally identifiab
 
 ---
 
-## 📊 Key Results
+## Key Results
 
 ### Overall Performance
 - **Precision:** 84.3%
@@ -42,7 +42,7 @@ A privacy-focused detection system that identifies exposed personally identifiab
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ### Core Components
 
@@ -69,7 +69,7 @@ run_experiments.py       - Complete experimental pipeline
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
@@ -112,7 +112,7 @@ python3 evaluator.py
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 .
@@ -136,7 +136,7 @@ python3 evaluator.py
 
 ---
 
-## 🔍 Detection Approach
+## Detection Approach
 
 ### Regex-Based Pattern Matching
 
@@ -176,7 +176,7 @@ r'\b(?:(?:Dr|Mr|Ms|Mrs|Prof)\.?\s+)?([A-Z][a-z]+(?:[-'][A-Z][a-z]+)?)\s+(?:([A-Z
 
 ---
 
-## 📈 Evaluation Methodology
+## Evaluation Methodology
 
 ### Metrics
 - **Precision:** Fraction of predictions that were correct (TP / (TP + FP))
@@ -202,7 +202,7 @@ Simple baseline with basic regex patterns:
 
 ---
 
-## 📊 Detailed Results
+## Detailed Results
 
 ### Comparison with Baseline
 
@@ -229,7 +229,7 @@ Simple baseline with basic regex patterns:
 
 ---
 
-## 🔬 Key Findings
+## Key Findings
 
 ### Strengths
 1. **Perfect accuracy for structured PII** - Emails, addresses, SSN achieve 100% F1
@@ -253,7 +253,7 @@ Simple baseline with basic regex patterns:
 
 ---
 
-## 🛠️ Technical Details
+## Technical Details
 
 ### Platform Integration
 
@@ -297,7 +297,7 @@ def _luhn_check(self, card_number: str) -> bool:
 
 ---
 
-## 📖 Usage Examples
+## Usage Examples
 
 ### Example 1: Analyze Sample Text
 ```python
@@ -351,7 +351,7 @@ if result['success']:
 
 ---
 
-## 🔗 Related Resources
+## Related Resources
 
 - **Web Demo:** https://suryacs719.github.io/cse253-openPII-web/
 - **Web Repository:** https://github.com/SuryaCS719/cse253-openPII-web
@@ -359,7 +359,7 @@ if result['success']:
 
 ---
 
-## 📝 Citation
+## Citation
 
 ```bibtex
 @misc{openpii-watcher-2024,
@@ -374,7 +374,7 @@ if result['success']:
 
 ---
 
-## 📧 Contact
+## Contact
 
 **Team Members:**
 - Suryakiran Valavala: suvalava@ucsc.edu
@@ -383,7 +383,7 @@ if result['success']:
 
 ---
 
-## ⚖️ License
+## License
 
 Educational project for CSE 253 at UC Santa Cruz.
 
