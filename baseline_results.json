@@ -1,0 +1,1121 @@
+{
+  "micro_average": {
+    "name": {
+      "precision": 0.42857142857142855,
+      "recall": 0.5735294117647058,
+      "f1_score": 0.490566037735849,
+      "true_positives": 39,
+      "false_positives": 52,
+      "false_negatives": 29,
+      "total_predicted": 91,
+      "total_actual": 68
+    },
+    "email": {
+      "precision": 0.36764705882352944,
+      "recall": 0.36764705882352944,
+      "f1_score": 0.3676470588235295,
+      "true_positives": 25,
+      "false_positives": 43,
+      "false_negatives": 43,
+      "total_predicted": 68,
+      "total_actual": 68
+    },
+    "phone": {
+      "precision": 0.5714285714285714,
+      "recall": 0.24242424242424243,
+      "f1_score": 0.3404255319148936,
+      "true_positives": 16,
+      "false_positives": 12,
+      "false_negatives": 50,
+      "total_predicted": 28,
+      "total_actual": 66
+    },
+    "address": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 5,
+      "total_predicted": 0,
+      "total_actual": 5
+    },
+    "ssn": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 5,
+      "total_predicted": 0,
+      "total_actual": 5
+    },
+    "credit_card": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 5,
+      "total_predicted": 0,
+      "total_actual": 5
+    }
+  },
+  "macro_average": {
+    "name": {
+      "precision": 0.5411706349206349,
+      "recall": 0.5639880952380952,
+      "f1_score": 0.49206253305518005,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "total_predicted": 0,
+      "total_actual": 0
+    },
+    "email": {
+      "precision": 0.375,
+      "recall": 0.375,
+      "f1_score": 0.375,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "total_predicted": 0,
+      "total_actual": 0
+    },
+    "phone": {
+      "precision": 0.6041666666666666,
+      "recall": 0.24069940476190477,
+      "f1_score": 0.30691287878787876,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "total_predicted": 0,
+      "total_actual": 0
+    },
+    "address": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "total_predicted": 0,
+      "total_actual": 0
+    },
+    "ssn": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "total_predicted": 0,
+      "total_actual": 0
+    },
+    "credit_card": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1_score": 0.0,
+      "true_positives": 0,
+      "false_positives": 0,
+      "false_negatives": 0,
+      "total_predicted": 0,
+      "total_actual": 0
+    }
+  },
+  "per_sample": [
+    {
+      "name": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1_score": 0.8571428571428571,
+        "true_positives": 6,
+        "false_positives": 0,
+        "false_negatives": 2,
+        "total_predicted": 6,
+        "total_actual": 8
+      },
+      "email": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "true_positives": 8,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 8,
+        "total_actual": 8
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 0.375,
+        "f1_score": 0.5454545454545454,
+        "true_positives": 3,
+        "false_positives": 0,
+        "false_negatives": 5,
+        "total_predicted": 3,
+        "total_actual": 8
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 0.6666666666666666,
+        "recall": 0.4,
+        "f1_score": 0.5,
+        "true_positives": 2,
+        "false_positives": 1,
+        "false_negatives": 3,
+        "total_predicted": 3,
+        "total_actual": 5
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 5,
+        "false_negatives": 5,
+        "total_predicted": 5,
+        "total_actual": 5
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1_score": 0.33333333333333337,
+        "true_positives": 1,
+        "false_positives": 0,
+        "false_negatives": 4,
+        "total_predicted": 1,
+        "total_actual": 5
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 0.1111111111111111,
+        "recall": 0.5,
+        "f1_score": 0.1818181818181818,
+        "true_positives": 1,
+        "false_positives": 8,
+        "false_negatives": 1,
+        "total_predicted": 9,
+        "total_actual": 2
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 2
+      },
+      "phone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 2
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      }
+    },
+    {
+      "name": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "true_positives": 3,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 3,
+        "total_actual": 3
+      },
+      "email": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "true_positives": 3,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 3,
+        "total_actual": 3
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1_score": 0.8,
+        "true_positives": 2,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 2,
+        "total_actual": 3
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 1.0,
+        "recall": 0.6,
+        "f1_score": 0.7499999999999999,
+        "true_positives": 3,
+        "false_positives": 0,
+        "false_negatives": 2,
+        "total_predicted": 3,
+        "total_actual": 5
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 5,
+        "false_negatives": 5,
+        "total_predicted": 5,
+        "total_actual": 5
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1_score": 0.33333333333333337,
+        "true_positives": 1,
+        "false_positives": 0,
+        "false_negatives": 4,
+        "total_predicted": 1,
+        "total_actual": 5
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 0.1111111111111111,
+        "recall": 0.5,
+        "f1_score": 0.1818181818181818,
+        "true_positives": 1,
+        "false_positives": 8,
+        "false_negatives": 1,
+        "total_predicted": 9,
+        "total_actual": 2
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 2
+      },
+      "phone": {
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1_score": 0.4,
+        "true_positives": 1,
+        "false_positives": 2,
+        "false_negatives": 1,
+        "total_predicted": 3,
+        "total_actual": 2
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      }
+    },
+    {
+      "name": {
+        "precision": 0.3333333333333333,
+        "recall": 0.3333333333333333,
+        "f1_score": 0.3333333333333333,
+        "true_positives": 1,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 3,
+        "total_actual": 3
+      },
+      "email": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "true_positives": 3,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 3,
+        "total_actual": 3
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1_score": 0.5,
+        "true_positives": 1,
+        "false_positives": 0,
+        "false_negatives": 2,
+        "total_predicted": 1,
+        "total_actual": 3
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 1.0,
+        "recall": 0.8571428571428571,
+        "f1_score": 0.923076923076923,
+        "true_positives": 6,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 6,
+        "total_actual": 7
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 7,
+        "false_negatives": 7,
+        "total_predicted": 7,
+        "total_actual": 7
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 0.14285714285714285,
+        "f1_score": 0.25,
+        "true_positives": 1,
+        "false_positives": 0,
+        "false_negatives": 6,
+        "total_predicted": 1,
+        "total_actual": 7
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 0.1111111111111111,
+        "recall": 0.5,
+        "f1_score": 0.1818181818181818,
+        "true_positives": 1,
+        "false_positives": 8,
+        "false_negatives": 1,
+        "total_predicted": 9,
+        "total_actual": 2
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 2
+      },
+      "phone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 2
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      }
+    },
+    {
+      "name": {
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1_score": 0.8,
+        "true_positives": 2,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 2,
+        "total_actual": 3
+      },
+      "email": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "true_positives": 3,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 3,
+        "total_actual": 3
+      },
+      "phone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 3,
+        "total_predicted": 0,
+        "total_actual": 3
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 0.7142857142857143,
+        "recall": 0.5,
+        "f1_score": 0.588235294117647,
+        "true_positives": 5,
+        "false_positives": 2,
+        "false_negatives": 5,
+        "total_predicted": 7,
+        "total_actual": 10
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 10,
+        "false_negatives": 10,
+        "total_predicted": 10,
+        "total_actual": 10
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 0.1,
+        "f1_score": 0.18181818181818182,
+        "true_positives": 1,
+        "false_positives": 0,
+        "false_negatives": 9,
+        "total_predicted": 1,
+        "total_actual": 10
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 0.1111111111111111,
+        "recall": 0.5,
+        "f1_score": 0.1818181818181818,
+        "true_positives": 1,
+        "false_positives": 8,
+        "false_negatives": 1,
+        "total_predicted": 9,
+        "total_actual": 2
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 2
+      },
+      "phone": {
+        "precision": 0.3333333333333333,
+        "recall": 0.5,
+        "f1_score": 0.4,
+        "true_positives": 1,
+        "false_positives": 2,
+        "false_negatives": 1,
+        "total_predicted": 3,
+        "total_actual": 2
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      }
+    },
+    {
+      "name": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1_score": 0.3333333333333333,
+        "true_positives": 1,
+        "false_positives": 1,
+        "false_negatives": 3,
+        "total_predicted": 2,
+        "total_actual": 4
+      },
+      "email": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "true_positives": 4,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 4,
+        "total_actual": 4
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1_score": 0.6666666666666666,
+        "true_positives": 2,
+        "false_positives": 0,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 4
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 0.8,
+        "recall": 0.6666666666666666,
+        "f1_score": 0.7272727272727272,
+        "true_positives": 4,
+        "false_positives": 1,
+        "false_negatives": 2,
+        "total_predicted": 5,
+        "total_actual": 6
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 6,
+        "false_negatives": 6,
+        "total_predicted": 6,
+        "total_actual": 6
+      },
+      "phone": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1_score": 0.5,
+        "true_positives": 2,
+        "false_positives": 0,
+        "false_negatives": 4,
+        "total_predicted": 2,
+        "total_actual": 6
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    },
+    {
+      "name": {
+        "precision": 0.2,
+        "recall": 1.0,
+        "f1_score": 0.33333333333333337,
+        "true_positives": 2,
+        "false_positives": 8,
+        "false_negatives": 0,
+        "total_predicted": 10,
+        "total_actual": 2
+      },
+      "email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 2
+      },
+      "phone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 2
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 1,
+        "total_predicted": 0,
+        "total_actual": 1
+      }
+    },
+    {
+      "name": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 5,
+        "false_negatives": 4,
+        "total_predicted": 5,
+        "total_actual": 4
+      },
+      "email": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1_score": 1.0,
+        "true_positives": 4,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 4,
+        "total_actual": 4
+      },
+      "phone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 2,
+        "false_negatives": 2,
+        "total_predicted": 2,
+        "total_actual": 2
+      },
+      "address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "ssn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      },
+      "credit_card": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "true_positives": 0,
+        "false_positives": 0,
+        "false_negatives": 0,
+        "total_predicted": 0,
+        "total_actual": 0
+      }
+    }
+  ],
+  "num_samples": 16
+}

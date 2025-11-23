@@ -1,0 +1,474 @@
+[
+  {
+    "sample_id": "contact_list_8",
+    "text": "CONTACT LIST\n==================================================\n\n1. Jennifer Smith\n   Email: jennifersmith@test.com\n   Phone: (892) 958-9935\n\n2. Dr. Elizabeth C. Wilson\n   Email: elizabeth+work@example.com\n   Phone: 7744039928\n\n3. Sarah Anderson\n   Email: user106@company.com\n   Phone: 914.632.6574\n\n4. Michael Miller\n   Email: michael.miller@business.net\n   Phone: 299.567.6635\n\n5. Mary Anderson\n   Email: user487@test.com\n   Phone: 765-500-6925\n\n6. Robert Johnson\n   Email: user181@email.com\n   Phone: 3035895554\n\n7. Mary-Anne L. Lopez\n   Email: mlopez@test.com\n   Phone: 823-850-3803\n\n8. Linda Anderson\n   Email: user755@email.com\n   Phone: 901-532-1916\n",
+    "labels": {
+      "name": [
+        "Jennifer Smith",
+        "Mary Anderson",
+        "Michael Miller",
+        "Mary-Anne L. Lopez",
+        "Dr. Elizabeth C. Wilson",
+        "Robert Johnson",
+        "Linda Anderson",
+        "Sarah Anderson"
+      ],
+      "email": [
+        "user181@email.com",
+        "user487@test.com",
+        "user106@company.com",
+        "mlopez@test.com",
+        "jennifersmith@test.com",
+        "user755@email.com",
+        "michael.miller@business.net",
+        "elizabeth+work@example.com"
+      ],
+      "phone": [
+        "(892) 958-9935",
+        "823-850-3803",
+        "299.567.6635",
+        "901-532-1916",
+        "765-500-6925",
+        "3035895554",
+        "914.632.6574",
+        "7744039928"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "signup_sheet_5",
+    "text": "EVENT SIGNUP SHEET\nPlease provide your contact information\n============================================================\n\nName: William G. Gonzalez\nEmail: user680@university.edu, Phone: 4178719179\n------------------------------------------------------------\nName: Mary-Anne E. Anderson\nEmail: mary-anne+work@work.org, Phone: 9647988019\n------------------------------------------------------------\nName: Jessica Davis\nEmail: jessica_davis@test.com, Phone: 973-248-2796\n------------------------------------------------------------\nName: Mary-Anne Garcia\nEmail: mary-anne.garcia@business.net, Phone: 590.810.8668\n------------------------------------------------------------\nName: Lisa Smith\nEmail: lisa+work@work.org, Phone: (987) 856-6573\n------------------------------------------------------------",
+    "labels": {
+      "name": [
+        "Mary-Anne Garcia",
+        "Mary-Anne E. Anderson",
+        "William G. Gonzalez",
+        "Jessica Davis",
+        "Lisa Smith"
+      ],
+      "email": [
+        "user680@university.edu",
+        "lisa+work@work.org",
+        "jessica_davis@test.com",
+        "mary-anne.garcia@business.net",
+        "mary-anne+work@work.org"
+      ],
+      "phone": [
+        "4178719179",
+        "973-248-2796",
+        "(987) 856-6573",
+        "590.810.8668",
+        "9647988019"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "mixed_document",
+    "text": "\nMeeting Notes - Project Planning\nDate: March 15, 2024\n\nAttendees:\n- Emily A. Wilson (emily.wilson@work.org)\n- James Taylor (user619@email.com)\n\nContact Information:\nEmily A. Wilson: (356) 582-3646\nJames Taylor: (813) 531-9005\n\nOffice Location: 1833 Elm Road\n\nFinancial Information (CONFIDENTIAL):\nSSN: 345-17-4946\nPayment Card: 3782-822463-10005\n\nAdditional Notes:\n- Follow up with team members next week\n- Budget approval pending\n- Contact information should be kept secure\n\nSome random numbers that are NOT phone numbers:\n- Order ID: 123-456-7890 (actually this looks like a phone!)\n- Date: 12-31-2024\n- Reference: 987-654-3210\n",
+    "labels": {
+      "name": [
+        "James Taylor",
+        "Emily A. Wilson"
+      ],
+      "email": [
+        "user619@email.com",
+        "emily.wilson@work.org"
+      ],
+      "phone": [
+        "(356) 582-3646",
+        "(813) 531-9005"
+      ],
+      "address": [
+        "1833 Elm Road"
+      ],
+      "ssn": [
+        "345-17-4946"
+      ],
+      "credit_card": [
+        "3782-822463-10005"
+      ]
+    }
+  },
+  {
+    "sample_id": "contact_list_3",
+    "text": "CONTACT LIST\n==================================================\n\n1. Robert Thomas\n   Email: user645@company.com\n   Phone: 331-875-8787\n\n2. James Taylor\n   Email: jamestaylor@email.com\n   Phone: 930.519.7537\n\n3. Joseph Taylor\n   Email: joseph.taylor@university.edu\n   Phone: 221-802-4770\n",
+    "labels": {
+      "name": [
+        "James Taylor",
+        "Robert Thomas",
+        "Joseph Taylor"
+      ],
+      "email": [
+        "jamestaylor@email.com",
+        "user645@company.com",
+        "joseph.taylor@university.edu"
+      ],
+      "phone": [
+        "331-875-8787",
+        "930.519.7537",
+        "221-802-4770"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "signup_sheet_5",
+    "text": "EVENT SIGNUP SHEET\nPlease provide your contact information\n============================================================\n\nName: Robert C. O'Connor\nEmail: user980@university.edu, Phone: 272.726.4899\n------------------------------------------------------------\nName: O'Brien E. Thomas\nEmail: user684@mail.com, Phone: 448-684-7669\n------------------------------------------------------------\nName: Jennifer Brown\nEmail: jennifer_brown@mail.com, Phone: (946) 255-2612\n------------------------------------------------------------\nName: Richard Hernandez\nEmail: richardhernandez@email.com, Phone: 7496593296\n------------------------------------------------------------\nName: Linda Rodriguez\nEmail: user177@mail.com, Phone: (763) 300-1828\n------------------------------------------------------------",
+    "labels": {
+      "name": [
+        "Linda Rodriguez",
+        "O'Brien E. Thomas",
+        "Jennifer Brown",
+        "Robert C. O'Connor",
+        "Richard Hernandez"
+      ],
+      "email": [
+        "user684@mail.com",
+        "richardhernandez@email.com",
+        "user980@university.edu",
+        "jennifer_brown@mail.com",
+        "user177@mail.com"
+      ],
+      "phone": [
+        "272.726.4899",
+        "448-684-7669",
+        "(763) 300-1828",
+        "7496593296",
+        "(946) 255-2612"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "mixed_document",
+    "text": "\nMeeting Notes - Project Planning\nDate: March 15, 2024\n\nAttendees:\n- Robert P. Davis (user268@business.net)\n- Nancy Miller (nancy_miller@work.org)\n\nContact Information:\nRobert P. Davis: 6654927930\nNancy Miller: 358-394-5861\n\nOffice Location: 959 Park Dr\n\nFinancial Information (CONFIDENTIAL):\nSSN: 655-17-6138\nPayment Card: 4532-1488-0343-6467\n\nAdditional Notes:\n- Follow up with team members next week\n- Budget approval pending\n- Contact information should be kept secure\n\nSome random numbers that are NOT phone numbers:\n- Order ID: 123-456-7890 (actually this looks like a phone!)\n- Date: 12-31-2024\n- Reference: 987-654-3210\n",
+    "labels": {
+      "name": [
+        "Robert P. Davis",
+        "Nancy Miller"
+      ],
+      "email": [
+        "user268@business.net",
+        "nancy_miller@work.org"
+      ],
+      "phone": [
+        "358-394-5861",
+        "6654927930"
+      ],
+      "address": [
+        "959 Park Dr"
+      ],
+      "ssn": [
+        "655-17-6138"
+      ],
+      "credit_card": [
+        "4532-1488-0343-6467"
+      ]
+    }
+  },
+  {
+    "sample_id": "contact_list_3",
+    "text": "CONTACT LIST\n==================================================\n\n1. Dr. Elizabeth Thomas\n   Email: user261@example.com\n   Phone: (720) 282-4044\n\n2. Prof. Andrew Williams\n   Email: andrew.williams@email.com\n   Phone: (792) 808-1651\n\n3. Patricia Thompson\n   Email: pthompson@email.com\n   Phone: 885-933-6147\n",
+    "labels": {
+      "name": [
+        "Patricia Thompson",
+        "Dr. Elizabeth Thomas",
+        "Prof. Andrew Williams"
+      ],
+      "email": [
+        "pthompson@email.com",
+        "user261@example.com",
+        "andrew.williams@email.com"
+      ],
+      "phone": [
+        "(792) 808-1651",
+        "(720) 282-4044",
+        "885-933-6147"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "signup_sheet_7",
+    "text": "EVENT SIGNUP SHEET\nPlease provide your contact information\n============================================================\n\nName: Richard Jones\nEmail: rjones@test.com, Phone: (209) 669-2638\n------------------------------------------------------------\nName: Lisa Miller\nEmail: lmiller@test.com, Phone: 450-578-5669\n------------------------------------------------------------\nName: Joseph Moore\nEmail: joseph+work@example.com, Phone: (883) 767-5905\n------------------------------------------------------------\nName: Michael D. Rodriguez\nEmail: user259@work.org, Phone: 488.819.4450\n------------------------------------------------------------\nName: David Thompson\nEmail: david_thompson@work.org, Phone: 252.294.7939\n------------------------------------------------------------\nName: Mary Smith\nEmail: msmith@company.com, Phone: (959) 652-8007\n------------------------------------------------------------\nName: Jennifer Williams\nEmail: jenniferwilliams@example.com, Phone: 5787963426\n------------------------------------------------------------",
+    "labels": {
+      "name": [
+        "Michael D. Rodriguez",
+        "David Thompson",
+        "Jennifer Williams",
+        "Mary Smith",
+        "Joseph Moore",
+        "Lisa Miller",
+        "Richard Jones"
+      ],
+      "email": [
+        "lmiller@test.com",
+        "joseph+work@example.com",
+        "msmith@company.com",
+        "rjones@test.com",
+        "david_thompson@work.org",
+        "jenniferwilliams@example.com",
+        "user259@work.org"
+      ],
+      "phone": [
+        "450-578-5669",
+        "(883) 767-5905",
+        "5787963426",
+        "(209) 669-2638",
+        "(959) 652-8007",
+        "488.819.4450",
+        "252.294.7939"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "mixed_document",
+    "text": "\nMeeting Notes - Project Planning\nDate: March 15, 2024\n\nAttendees:\n- Michael Johnson (mjohnson@business.net)\n- Mary H. Lopez (user867@company.com)\n\nContact Information:\nMichael Johnson: 4423663900\nMary H. Lopez: 2253836442\n\nOffice Location: 4066 Cedar Avenue\n\nFinancial Information (CONFIDENTIAL):\nSSN: 906-99-2771\nPayment Card: 5425-2334-3010-9903\n\nAdditional Notes:\n- Follow up with team members next week\n- Budget approval pending\n- Contact information should be kept secure\n\nSome random numbers that are NOT phone numbers:\n- Order ID: 123-456-7890 (actually this looks like a phone!)\n- Date: 12-31-2024\n- Reference: 987-654-3210\n",
+    "labels": {
+      "name": [
+        "Mary H. Lopez",
+        "Michael Johnson"
+      ],
+      "email": [
+        "mjohnson@business.net",
+        "user867@company.com"
+      ],
+      "phone": [
+        "2253836442",
+        "4423663900"
+      ],
+      "address": [
+        "4066 Cedar Avenue"
+      ],
+      "ssn": [
+        "906-99-2771"
+      ],
+      "credit_card": [
+        "5425-2334-3010-9903"
+      ]
+    }
+  },
+  {
+    "sample_id": "contact_list_3",
+    "text": "CONTACT LIST\n==================================================\n\n1. Nancy O. Davis\n   Email: nancydavis@email.com\n   Phone: 2248754164\n\n2. William Rodriguez\n   Email: user385@university.edu\n   Phone: 856.721.7548\n\n3. John Brown\n   Email: john+work@work.org\n   Phone: 239.311.8119\n",
+    "labels": {
+      "name": [
+        "Nancy O. Davis",
+        "William Rodriguez",
+        "John Brown"
+      ],
+      "email": [
+        "nancydavis@email.com",
+        "john+work@work.org",
+        "user385@university.edu"
+      ],
+      "phone": [
+        "239.311.8119",
+        "856.721.7548",
+        "2248754164"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "signup_sheet_10",
+    "text": "EVENT SIGNUP SHEET\nPlease provide your contact information\n============================================================\n\nName: William Wilson\nEmail: william_wilson@email.com, Phone: (460) 245-8144\n------------------------------------------------------------\nName: Thomas Moore\nEmail: user854@email.com, Phone: 572.641.2146\n------------------------------------------------------------\nName: Prof. Andrew Hernandez\nEmail: ahernandez@work.org, Phone: 8826186344\n------------------------------------------------------------\nName: Emily N. Moore\nEmail: emily_moore@company.com, Phone: 8307825930\n------------------------------------------------------------\nName: Lisa Smith\nEmail: lisa+work@university.edu, Phone: 676-652-8244\n------------------------------------------------------------\nName: Thomas Thomas\nEmail: user853@company.com, Phone: 874.286.5649\n------------------------------------------------------------\nName: Robert Davis\nEmail: robertdavis@company.com, Phone: 2252475011\n------------------------------------------------------------\nName: Prof. Andrew Williams\nEmail: user689@email.com, Phone: 9359137291\n------------------------------------------------------------\nName: Richard W. Davis\nEmail: richard.davis@business.net, Phone: 4243809486\n------------------------------------------------------------\nName: Mary D. Moore\nEmail: mary_moore@university.edu, Phone: 9736539270\n------------------------------------------------------------",
+    "labels": {
+      "name": [
+        "Thomas Moore",
+        "Mary D. Moore",
+        "Richard W. Davis",
+        "Prof. Andrew Williams",
+        "Emily N. Moore",
+        "Lisa Smith",
+        "Prof. Andrew Hernandez",
+        "Robert Davis",
+        "William Wilson",
+        "Thomas Thomas"
+      ],
+      "email": [
+        "mary_moore@university.edu",
+        "lisa+work@university.edu",
+        "william_wilson@email.com",
+        "richard.davis@business.net",
+        "user853@company.com",
+        "emily_moore@company.com",
+        "ahernandez@work.org",
+        "robertdavis@company.com",
+        "user854@email.com",
+        "user689@email.com"
+      ],
+      "phone": [
+        "2252475011",
+        "572.641.2146",
+        "4243809486",
+        "(460) 245-8144",
+        "8826186344",
+        "9359137291",
+        "676-652-8244",
+        "9736539270",
+        "874.286.5649",
+        "8307825930"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "mixed_document",
+    "text": "\nMeeting Notes - Project Planning\nDate: March 15, 2024\n\nAttendees:\n- Lisa Anderson (user383@mail.com)\n- Nancy H. Anderson (nanderson@mail.com)\n\nContact Information:\nLisa Anderson: 279-930-5681\nNancy H. Anderson: (478) 543-6238\n\nOffice Location: 2268 Pine Ave\n\nFinancial Information (CONFIDENTIAL):\nSSN: 492-98-3503\nPayment Card: 3782-822463-10005\n\nAdditional Notes:\n- Follow up with team members next week\n- Budget approval pending\n- Contact information should be kept secure\n\nSome random numbers that are NOT phone numbers:\n- Order ID: 123-456-7890 (actually this looks like a phone!)\n- Date: 12-31-2024\n- Reference: 987-654-3210\n",
+    "labels": {
+      "name": [
+        "Lisa Anderson",
+        "Nancy H. Anderson"
+      ],
+      "email": [
+        "nanderson@mail.com",
+        "user383@mail.com"
+      ],
+      "phone": [
+        "279-930-5681",
+        "(478) 543-6238"
+      ],
+      "address": [
+        "2268 Pine Ave"
+      ],
+      "ssn": [
+        "492-98-3503"
+      ],
+      "credit_card": [
+        "3782-822463-10005"
+      ]
+    }
+  },
+  {
+    "sample_id": "contact_list_4",
+    "text": "CONTACT LIST\n==================================================\n\n1. Robert Wilson\n   Email: robert_wilson@example.com\n   Phone: (411) 630-7381\n\n2. Dr. Elizabeth Gonzalez\n   Email: user405@business.net\n   Phone: 629-751-9947\n\n3. Nancy P. Davis\n   Email: ndavis@business.net\n   Phone: 941-369-8657\n\n4. Prof. Andrew M. Moore\n   Email: andrew.moore@test.com\n   Phone: 8586383223\n",
+    "labels": {
+      "name": [
+        "Robert Wilson",
+        "Dr. Elizabeth Gonzalez",
+        "Prof. Andrew M. Moore",
+        "Nancy P. Davis"
+      ],
+      "email": [
+        "robert_wilson@example.com",
+        "andrew.moore@test.com",
+        "ndavis@business.net",
+        "user405@business.net"
+      ],
+      "phone": [
+        "(411) 630-7381",
+        "941-369-8657",
+        "629-751-9947",
+        "8586383223"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "signup_sheet_6",
+    "text": "EVENT SIGNUP SHEET\nPlease provide your contact information\n============================================================\n\nName: Mary Rodriguez\nEmail: mrodriguez@university.edu, Phone: 9795885558\n------------------------------------------------------------\nName: James Williams\nEmail: user153@university.edu, Phone: (429) 865-2124\n------------------------------------------------------------\nName: John A. Davis\nEmail: johndavis@company.com, Phone: 684-885-2874\n------------------------------------------------------------\nName: Joseph Rodriguez\nEmail: joseph+work@test.com, Phone: (996) 367-6096\n------------------------------------------------------------\nName: Dr. Elizabeth Smith\nEmail: elizabeth_smith@business.net, Phone: 932-403-2245\n------------------------------------------------------------\nName: Jennifer Martinez\nEmail: jennifer.martinez@example.com, Phone: 555.745.8018\n------------------------------------------------------------",
+    "labels": {
+      "name": [
+        "James Williams",
+        "Jennifer Martinez",
+        "John A. Davis",
+        "Dr. Elizabeth Smith",
+        "Joseph Rodriguez",
+        "Mary Rodriguez"
+      ],
+      "email": [
+        "jennifer.martinez@example.com",
+        "elizabeth_smith@business.net",
+        "user153@university.edu",
+        "joseph+work@test.com",
+        "mrodriguez@university.edu",
+        "johndavis@company.com"
+      ],
+      "phone": [
+        "9795885558",
+        "684-885-2874",
+        "555.745.8018",
+        "932-403-2245",
+        "(996) 367-6096",
+        "(429) 865-2124"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  },
+  {
+    "sample_id": "mixed_document",
+    "text": "\nMeeting Notes - Project Planning\nDate: March 15, 2024\n\nAttendees:\n- Robert Taylor (rtaylor@mail.com)\n- John Wilson (user545@company.com)\n\nContact Information:\nRobert Taylor: 9517345425\nJohn Wilson: 676.646.5397\n\nOffice Location: 4023 Oak Road\n\nFinancial Information (CONFIDENTIAL):\nSSN: 561-41-8613\nPayment Card: 3782-822463-10005\n\nAdditional Notes:\n- Follow up with team members next week\n- Budget approval pending\n- Contact information should be kept secure\n\nSome random numbers that are NOT phone numbers:\n- Order ID: 123-456-7890 (actually this looks like a phone!)\n- Date: 12-31-2024\n- Reference: 987-654-3210\n",
+    "labels": {
+      "name": [
+        "Robert Taylor",
+        "John Wilson"
+      ],
+      "email": [
+        "rtaylor@mail.com",
+        "user545@company.com"
+      ],
+      "phone": [
+        "676.646.5397",
+        "9517345425"
+      ],
+      "address": [
+        "4023 Oak Road"
+      ],
+      "ssn": [
+        "561-41-8613"
+      ],
+      "credit_card": [
+        "3782-822463-10005"
+      ]
+    }
+  },
+  {
+    "sample_id": "edge_cases",
+    "text": "\nEdge Case Testing Document\n\n1. Emails with special characters:\n   - john+work@example.com\n   - user.name+tag@company.com\n   - firstname_lastname@test.org\n\n2. Names with special formatting:\n   - Mary-Anne Johnson (hyphenated first name)\n   - Dr. Robert O'Brien (prefix and apostrophe)\n   - Lisa Smith-Anderson (hyphenated last name)\n\n3. Phone numbers without standard formatting:\n   - 5551234567 (no separators)\n   - (555) 987-6543 (parentheses and dash)\n\n4. False positives to avoid:\n   - Date: 12-31-2024 (not a phone number)\n   - ID: 123-456-7890 (could be phone or ID)\n   - Numbers: 111-222-3333 (sequential, suspicious)\n\n5. International scenarios:\n   - Non-US name: Rajesh Kumar Patel\n   - Email with subdomain: user@mail.company.com\n",
+    "labels": {
+      "name": [
+        "Dr. Robert O'Brien",
+        "Rajesh Kumar Patel",
+        "Lisa Smith-Anderson",
+        "Mary-Anne Johnson"
+      ],
+      "email": [
+        "john+work@example.com",
+        "user@mail.company.com",
+        "user.name+tag@company.com",
+        "firstname_lastname@test.org"
+      ],
+      "phone": [
+        "5551234567",
+        "(555) 987-6543"
+      ],
+      "address": [],
+      "ssn": [],
+      "credit_card": []
+    }
+  }
+]

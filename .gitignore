@@ -1,11 +1,11 @@
-# Python Files
-*.py
-*.pyc
-__pycache__/
-*.pyo
-*.pyd
+# Exclude Web Interface Files
+index.html
+style.css
+app.js
+pii_detector.js
+content_fetcher.js
 
-# LaTeX Files
+# Exclude Documentation/Reports
 *.tex
 *.aux
 *.log
@@ -16,38 +16,37 @@ __pycache__/
 *.synctex.gz
 *.fls
 *.fdb_latexmk
-
-# Data & Results
-*.json
-*.png
-test_dataset.json
-main_results.json
-baseline_results.json
-detection_performance.png
-detailed_analysis.png
-
-# Documentation (keep only web README)
+*.pdf
+MidtermReport.tex
+FinalReport.tex
 README_WEB.md
 PROJECT_SUMMARY.md
 SETUP_GUIDE.md
 SUBMISSION_CHECKLIST.md
 TEST_RESULTS.md
 WEB_DEMO_GUIDE.md
-MidtermReport.tex
-FinalReport.tex
+demo_sample.txt
 
-# Misc
-.DS_Store
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDEs
+.vscode/
+.idea/
 *.swp
 *.swo
 *~
-demo_sample.txt
 
-# Keep only web files
-# index.html
-# style.css
-# app.js
-# pii_detector.js
-# content_fetcher.js
-# README_WEB.md (will be renamed to README.md)
+# OS
+.DS_Store
+Thumbs.db
 
+# Keep:
+# - Python source files (*.py)
+# - Results (*.json)
+# - Visualizations (*.png)
+# - Technical README
